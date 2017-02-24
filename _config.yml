@@ -24,6 +24,9 @@ twitter_username: samuelfcmc
 github_username:  samfcmc
 
 # Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
 markdown: kramdown
 theme: minima
 gems:
